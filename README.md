@@ -1,4 +1,4 @@
-# Alaska Survival Game
+# DGD203 - Reha Demircan - Final
 
 **Game Title:** Alaska Survival Game  
 **Game Developer:** Reha Demircan  
